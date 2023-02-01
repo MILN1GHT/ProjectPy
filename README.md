@@ -1,2 +1,0 @@
-# ProjectPy
-nothing special
